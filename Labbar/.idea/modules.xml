@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Labb 1/1.3/1.3.iml" filepath="$PROJECT_DIR$/Labb 1/1.3/1.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labb 1/1.4/1.4.iml" filepath="$PROJECT_DIR$/Labb 1/1.4/1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labb 1/1.5/1.5.iml" filepath="$PROJECT_DIR$/Labb 1/1.5/1.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labb 1/1.6/1.6.iml" filepath="$PROJECT_DIR$/Labb 1/1.6/1.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labb 1/1.7/1.7.iml" filepath="$PROJECT_DIR$/Labb 1/1.7/1.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labb 1/1.2/Labb1_2/Labb1_2.iml" filepath="$PROJECT_DIR$/Labb 1/1.2/Labb1_2/Labb1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labb 1/1.2/Labb_1_2_1/Labb_1_2_1.iml" filepath="$PROJECT_DIR$/Labb 1/1.2/Labb_1_2_1/Labb_1_2_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Labbar.iml" filepath="$PROJECT_DIR$/.idea/Labbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snopp/snopp.iml" filepath="$PROJECT_DIR$/snopp/snopp.iml" />
+    </modules>
+  </component>
+</project>
